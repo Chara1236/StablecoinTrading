@@ -5,3 +5,5 @@ the price of the coin will frequently return to it's pegged price. Thus it is ve
 
 Of course in reality this relatively simple script is probably not the most effective investment strategy for several reasons including lack of opportunities due to trading fees and stablecoins not actually being risk-free
 (Like how some believe USDT to be a sort of ponzi).
+
+Stablecoins used: PAX, BUSD, USDT, USDC, DAI
